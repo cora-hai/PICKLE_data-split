@@ -1,0 +1,17 @@
+{
+    "R1": {
+        "label": "is-in"
+    },
+    "R2": {
+        "label": "produces"
+    },
+    "R3": {
+        "label": "interacts"
+    },
+    "R4": {
+        "label": "activates"
+    },
+    "R5": {
+        "label": "inhibits"
+    }
+}
